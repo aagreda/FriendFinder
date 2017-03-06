@@ -1,0 +1,29 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "an application that uses both front and back end technology to take user input and compare results to match users together.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aagreda/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aagreda/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/aagreda/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0",
+    "path": "^0.12.7",
+    "request": "^2.80.0"
+  }
+}

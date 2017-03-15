@@ -14,5 +14,6 @@ var friendArray = [{
      4,
      1
    ],
+   
 
 }];
